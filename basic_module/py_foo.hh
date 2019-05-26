@@ -2,8 +2,8 @@
 // Created by Oscar Riveros on 2019-05-26.
 //
 
-#ifndef CLUSTERING_PY_FOO_HH
-#define CLUSTERING_PY_FOO_HH
+#ifndef PY_FOO_HH
+#define PY_FOO_HH
 
 #include <iostream>
 #include <Python.h>
@@ -17,4 +17,4 @@ PyObject *foo(PyObject *self, PyObject *args) {
     Py_RETURN_NONE;
 }
 
-#endif //CLUSTERING_PY_FOO_HH
+#endif //PY_FOO_HH
