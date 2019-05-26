@@ -1,8 +1,8 @@
 import os
 from distutils.core import setup, Extension
 
-os.environ["CC"] = "gcc-9"
-os.environ["CXX"] = "g++-9"
+os.environ["CC"] = "gcc"
+os.environ["CXX"] = "g++"
 
 setup(
     name='py_foo',
