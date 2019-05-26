@@ -1,7 +1,3 @@
-//
-// Created by Oscar Riveros on 2019-05-26.
-//
-
 #ifndef PY_FOO_HH
 #define PY_FOO_HH
 
